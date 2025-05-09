@@ -40,7 +40,7 @@ O projeto é um aplicativo simples de lista de compras, pensado para uso rápido
 
 ## 🗂️ Estrutura do Projeto
 
-frontend-hackathon-WolferWaii/
+frontend-hackathon-MatheusHenriqueDiasSantos
 │
 ├── index.html       → Página principal com HTML semântico
 ├── style.css        → Estilos visuais com Flexbox e responsividade
